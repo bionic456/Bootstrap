@@ -1,0 +1,6 @@
+$carousel-indicator-opacity: .5;
+$carousel-indicator-active-bg: $white;
+
+body{
+    text-align: left;
+}
